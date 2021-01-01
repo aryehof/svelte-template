@@ -1,4 +1,9 @@
-/node_modules/
+node_modules/
+web_modules/
+
 /public/build/
+
+logs
+*.log
 
 .DS_Store
